@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 09 Dec 2020 21:41:34 +0700</pubDate><title><![CDATA[Menu Makanan]]></title><url><![CDATA[menu-makanan]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Menu Makanan]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h3&gt;&lt;strong&gt;Menu Makanan My Resto&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-6&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/paket1.jpg&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-6 p-3 p-md-5&quot;&gt;
+		&lt;p&gt;Sate Ayam Rp.25.000&lt;/p&gt;
+
+		&lt;p&gt;Sate Kambing Rp.35.000&lt;/p&gt;
+
+		&lt;p&gt;Tempe Penyet Rp.20.000&lt;/p&gt;
+
+		&lt;p&gt;Iga Penyet Rp.45.000&lt;/p&gt;
+
+		&lt;p&gt;Kikil Sapi Rp.40.000&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>
