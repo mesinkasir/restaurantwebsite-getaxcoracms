@@ -69,8 +69,9 @@ Features :
 
 No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
 
+[Test Drive →](https://restaurantwebsite-freedownload.sourceforge.io/)
 
-[cek demo here →](https://www.youtube.com/watch?v=vqbeeSLq-Fo)
+[Video Demo →](https://www.youtube.com/watch?v=vqbeeSLq-Fo)
 
 
 Live test speed and demo website using company profile themes
