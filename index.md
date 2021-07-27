@@ -6,23 +6,7 @@ No need a database for installation , make your website very fast and SEO friend
 
 Template restaurant my resto for get axcora cms.
 
-![new restaurant modern website cms](https://a.fsdn.com/con/app/proj/restaurantwebsite-freedownload/screenshots/websiterestoran-restaurant%20cms%20web%20%285%29.png/max/max/1)
-
-Modern design interface with unique
-
-![new restaurant modern website cms](https://a.fsdn.com/con/app/proj/restaurantwebsite-freedownload/screenshots/websiterestoran-restaurant%20cms%20web%20%284%29.png/max/max/1)
-
-Modern and fresh design new bootstrap 5
-
-![new restaurant modern website cms](https://a.fsdn.com/con/app/proj/restaurantwebsite-freedownload/screenshots/websiterestoran-restaurant%20cms%20web%20%283%29.png/max/max/1)
-
-With six page menu
-
-![new restaurant modern website cms](https://a.fsdn.com/con/app/proj/restaurantwebsite-freedownload/screenshots/websiterestoran-restaurant%20cms%20web%20%281%29.png/max/max/1)
-
-Responsif display
-
-![new restaurant modern website cms](https://a.fsdn.com/con/app/proj/restaurantwebsite-freedownload/screenshots/New%20CMS%20modern%20website%20SEO%20%286%29.png/max/max/1)
+![new restaurant modern website cms](https://axcora.com/getaxcoracms/data/uploads/websiterestoran-restaurant-cms-web-5.png)
 
 Login Area for backend
 
@@ -52,12 +36,11 @@ Test Speed using [company profile themes](https://github.com/mesinkasir/companyp
 CLOUDS / SHARED HOSTING
 
 Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori .
-After upload progress success, now you need to configure website.xml file on \getaxcora\data\other\website.xml file. then change url `<SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL>` with your site URL.
-Your website is online now . for accsess backend you need visit yourwebsite/admin
+After upload progress success, now you need to configure just login on backend yourwebsite/admin and go to setting menu, then change webite url, and save
+Your website is online now .
 
 LOCALHOST
-Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, then visit localhost/your project. need to configure website.xml file on \getaxcora\data\other\website.xml file. then change url `<SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL>` with your site URL project.
-Your website is online now on localhost. for accsess backend menu you need visit localhost/yourproject/admin
+Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, now you need to configure just login on backend yourwebsite/admin and go to setting menu, then change webite url with localhost/projectfolder
 
 By default use username : axcora and password : axcoracms
 
@@ -69,18 +52,17 @@ Features :
 
 No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
 
-
-[cek demo here →](https://www.youtube.com/watch?v=vqbeeSLq-Fo)
+[Video Demo →](https://www.youtube.com/watch?v=vqbeeSLq-Fo)
 
 
 Live test speed and demo website using company profile themes
-(cek demo)[https://axcora.my.id]
+https://axcora.my.id
 
 
-more info More themes : (select themes here)[https://axcora.com/getaxcoracms]
+more info https://axcora.com/getaxcoracms
 
 
-present by (axcora technology)[https://axcora.com]
+present by https://axcora.com
 
 
 Hapy codding !!
